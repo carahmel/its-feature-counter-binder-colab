@@ -42,13 +42,16 @@ markupsafe==2.1.3
     # via jinja2
 numpy==1.26.1
     # via
+    #   -r requirements.in
     #   folium
     #   pandas
     #   shapely
 packaging==23.2
     # via geopandas
 pandas==2.1.1
-    # via geopandas
+    # via
+    #   -r requirements.in
+    #   geopandas
 pyproj==3.4.0
     # via geopandas
 python-dateutil==2.8.2
