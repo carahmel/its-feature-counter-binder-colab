@@ -16,11 +16,14 @@ Results will printed directly in the notebook.
 
 Example output:
 ```
-# Available: 38
-# Occupied: 5
+STATUS OF CHARGING POINTS:
+# Available: 77
+# Reserved: 0
+# Occupied: 39
 # Out of service: 0
-# Unknown: 1
-TOTAL: 44
-(2024-02-21 11:45:03 CET)
+# Unknown: 4
+
+TOTAL: 120 charging points across 44 stations
+(2024-02-23 15:39:32 CET)
 ```
 
