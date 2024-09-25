@@ -5,13 +5,20 @@ This Binder-ready repository allows the ITSFeatureCounter script to be executed 
 
 ## Usage
 
-Run https://mybinder.org/v2/gh/carahmel/its-feature-counter-binder/HEAD?labpath=ITS-feature-counter.ipynb in your browser and wait for the Binder to finish building the image.
 
-Once complete, JupyterLab will open with the ITS-feature-counter notebook ready to be executed [_Run_ tab > _Run All Cells_].
+[Update 25.09.2024] Due to inconsistencies when launching the Binder URL, use run the notebook via Google Colab instead:
 
-This notebook is fully editable within the browser. As such, the path to ich-tanke-strom.ch's JSON file can be updated if necessary.
+https://colab.research.google.com/drive/1HK1LcM3JBksQL_H6yllJKyrr-uyC6OI0?usp=sharing
 
-Results will printed directly in the notebook.
+
+~~Run https://mybinder.org/v2/gh/carahmel/its-feature-counter-binder/HEAD?labpath=ITS-feature-counter.ipynb in your browser and wait for the Binder to finish building the image.~~
+
+~~Once complete, JupyterLab will open with the ITS-feature-counter notebook ready to be executed [_Run_ tab > _Run All Cells_].~~
+
+
+This notebook is editable within the browser. As such, the path to ich-tanke-strom.ch's JSON file can be updated if necessary.
+
+Results (and interactive map) will printed directly in the notebook.
 
 
 Example output:
