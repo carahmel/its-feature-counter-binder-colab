@@ -6,11 +6,15 @@ This Binder-ready repository allows the ITSFeatureCounter script to be executed 
 ## Usage
 
 
-**[Update 25.09.2024]** If issues are encountered when launching the Binder URL, run the notebook via Google Colab instead:
+**[Update 25.09.2024]** 
+
+If issues are encountered when building/launching the Binder image, run the notebook via Google Colab instead:
 
 https://colab.research.google.com/drive/1HK1LcM3JBksQL_H6yllJKyrr-uyC6OI0?usp=sharing
 
 Note that it is necessary to sign in using a Google account in order to run the notebook.
+
+**[/Update 25.09.2024]**
 
 ---
 
