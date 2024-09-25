@@ -8,7 +8,7 @@ This Binder-ready repository allows the ITSFeatureCounter script to be executed 
 
 **[Update 25.09.2024]** 
 
-If issues are encountered when building/launching the Binder image, run the notebook via Google Colab instead:
+If issues are encountered when building/launching the [Binder image](https://mybinder.org/v2/gh/carahmel/its-feature-counter-binder/60fbf98b0a0fcedc7399042bfd04f743b482c91b?urlpath=lab%2Ftree%2FITS-feature-counter.ipynb), run the notebook via Google Colab instead:
 
 https://colab.research.google.com/drive/1HK1LcM3JBksQL_H6yllJKyrr-uyC6OI0?usp=sharing
 
