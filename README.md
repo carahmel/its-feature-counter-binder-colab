@@ -5,7 +5,7 @@ This Binder-ready repository allows the ITSFeatureCounter script to be executed 
 
 ## Usage
 
-Run https://mybinder.org/v2/git/https%3A%2F%2Fgit.lausanne.ch%2Fmelissapgvt%2Fits-feature-counter-binder/HEAD?labpath=ITS-feature-counter.ipynb in your browser and wait for the Binder to finish building the image.
+Run https://mybinder.org/v2/gh/carahmel/its-feature-counter-binder/HEAD?labpath=ITS-feature-counter.ipynb in your browser and wait for the Binder to finish building the image.
 
 Once complete, JupyterLab will open with the ITS-feature-counter notebook ready to be executed [_Run_ tab > _Run All Cells_].
 
